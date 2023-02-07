@@ -78,6 +78,7 @@ while improving team morale by being reliable and inspiring.
 __Tools:__ C/C++, CMake, Python, DHCP, Groovy, Jenkins, Git, BitBucket,
 Jira, Docker, Linux
 
+<div style="page-break-after: always;"></div>
 
 ## Education
 
