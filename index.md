@@ -2,11 +2,11 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
+# Max Perea Düring
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="max@happihacking.se">max@happihacking.se</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
@@ -86,6 +86,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: January 2023 -->
 
 
