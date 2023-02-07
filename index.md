@@ -63,8 +63,9 @@ Development, mainly in C++, of distributed software with high
 performance requirements. Setup of CI pipeline. Raw network packet
 debugging. Delivered important software components of high quality
 while improving team morale by being reliable and inspiring.
-__Tools:__ C/C++, CMake, Python, DHCP, Groovy, Jenkins, Git, BitBucket,
-Jira, Docker, Linux
+
+__Tools:__ C/C++, CMake, Python, DHCP, Groovy, Jenkins, Git,
+BitBucket, Jira, Docker, Linux
 
 `2021 - 2022`
 __Systems Programmer, SAAB Surveillance__
@@ -73,47 +74,29 @@ Development, mainly in C++, of distributed software with high
 performance requirements. Setup of CI pipeline. Raw network packet
 debugging. Delivered important software components of high quality
 while improving team morale by being reliable and inspiring.
+
 __Tools:__ C/C++, CMake, Python, DHCP, Groovy, Jenkins, Git, BitBucket,
 Jira, Docker, Linux
 
-`2021 - 2022`
-__Systems Programmer, SAAB Surveillance__
-
-- Development, mainly in C++, of distributed software with high
-performance requirements. Setup of CI pipeline. Raw network packet
-debugging. Delivered important software components of high quality
-while improving team morale by being reliable and inspiring.
-- __Tools:__ C/C++, CMake, Python, DHCP, Groovy, Jenkins, Git, BitBucket,
-Jira, Docker, Linux
-
-`2021 - 2022`
-__Systems Programmer, SAAB Surveillance__
-
-- Development, mainly in C++, of distributed software with high
-performance requirements. Setup of CI pipeline. Raw network packet
-debugging. Delivered important software components of high quality
-while improving team morale by being reliable and inspiring.
-- __Tools:__ C/C++, CMake, Python, DHCP, Groovy, Jenkins, Git, BitBucket,
-Jira, Docker, Linux
 
 ## Education
 
 `2015 - 2021`
 __MSc Computer and Information Engineering, Uppsala University__
 
-- Master’s programme during which Max specialised in algorithms, high
+Master’s programme during which Max specialised in algorithms, high
 performance computing and combinatorial optimisation.
 
 `2015 - 2021`
 __MSc Computer and Information Engineering, Uppsala University__
 
-- Master’s programme during which Max specialised in algorithms, high
+Master’s programme during which Max specialised in algorithms, high
 performance computing and combinatorial optimisation.
 
 `2020`
 __Exchange Semester, Teknische Universität München__
 
-- Exchange semester with studies mainly in compiler and blockchain
+Exchange semester with studies mainly in compiler and blockchain
 techniques.
 
 <!-- ### Footer
