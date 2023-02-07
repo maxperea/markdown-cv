@@ -2,7 +2,7 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Max Perea Düring
+# Max Perea Düring <img src="img/max.jpg"  width="100" height="100">
 Software Developer
 
 <div id="webaddress">
@@ -10,7 +10,6 @@ Software Developer
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">+46 707 96 90 10</a>
 </div>
 
-<img src="img/max.jpg"  width="100" height="100">
 
 ## Profile
 
@@ -66,9 +65,43 @@ __Systems Programmer, SAAB Surveillance__
 - __Tools:__ C/C++, CMake, Python, DHCP, Groovy, Jenkins, Git, BitBucket,
   Jira, Docker, Linux
 
+`2021 - 2022`
+__Systems Programmer, SAAB Surveillance__
 
+- Development, mainly in C++, of distributed software with high
+  performance requirements. Setup of CI pipeline. Raw network packet
+  debugging. Delivered important software components of high quality
+  while improving team morale by being reliable and inspiring.
+- __Tools:__ C/C++, CMake, Python, DHCP, Groovy, Jenkins, Git, BitBucket,
+  Jira, Docker, Linux
+
+`2021 - 2022`
+__Systems Programmer, SAAB Surveillance__
+
+- Development, mainly in C++, of distributed software with high
+  performance requirements. Setup of CI pipeline. Raw network packet
+  debugging. Delivered important software components of high quality
+  while improving team morale by being reliable and inspiring.
+- __Tools:__ C/C++, CMake, Python, DHCP, Groovy, Jenkins, Git, BitBucket,
+  Jira, Docker, Linux
+
+`2021 - 2022`
+__Systems Programmer, SAAB Surveillance__
+
+- Development, mainly in C++, of distributed software with high
+  performance requirements. Setup of CI pipeline. Raw network packet
+  debugging. Delivered important software components of high quality
+  while improving team morale by being reliable and inspiring.
+- __Tools:__ C/C++, CMake, Python, DHCP, Groovy, Jenkins, Git, BitBucket,
+  Jira, Docker, Linux
 
 ## Education
+
+`2015 - 2021`
+__MSc Computer and Information Engineering, Uppsala University__
+
+- Master’s programme during which Max specialised in algorithms, high
+  performance computing and combinatorial optimisation.
 
 `2015 - 2021`
 __MSc Computer and Information Engineering, Uppsala University__
