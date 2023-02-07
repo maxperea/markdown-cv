@@ -27,6 +27,16 @@ time, mark, audio, video {
 img {
   border-radius: 50%;
 }
+
+img {
+	font-size: 1.1em;
+	color: #8fbbe0;
+	margin-top: 3em;
+	position: relative;
+	top: 1.4em;
+	text-align: right;
+	width: 20%;
+}
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
