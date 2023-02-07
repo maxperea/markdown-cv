@@ -47,53 +47,54 @@ network programming.
 `2022 - now`
 __Software Developer, Happi Hacking__
 
-- Development and design of a cross platform mobile application
-  front-end for the game Taba, written in Flutter. Occasional
-  development of game engine in Flame and back-end in Erlang. Led the
-  project from prototype to complete application, while designing,
-  developing, documenting and researching.
-- __Tools:__ Dart, Flutter, Erlang, REST, Docker, GitHub, Git, TestFlight,
-  Firebase, Flame Engine
+Development and design of a cross platform mobile application
+front-end for the game Taba, written in Flutter. Occasional
+development of game engine in Flame and back-end in Erlang. Led the
+project from prototype to complete application, while designing,
+developing, documenting and researching.
+
+__Tools:__ Dart, Flutter, Erlang, REST, Docker, GitHub, Git, TestFlight,
+Firebase, Flame Engine
+
+`2021 - 2022`
+__Systems Programmer, SAAB Surveillance__
+
+Development, mainly in C++, of distributed software with high
+performance requirements. Setup of CI pipeline. Raw network packet
+debugging. Delivered important software components of high quality
+while improving team morale by being reliable and inspiring.
+__Tools:__ C/C++, CMake, Python, DHCP, Groovy, Jenkins, Git, BitBucket,
+Jira, Docker, Linux
+
+`2021 - 2022`
+__Systems Programmer, SAAB Surveillance__
+
+Development, mainly in C++, of distributed software with high
+performance requirements. Setup of CI pipeline. Raw network packet
+debugging. Delivered important software components of high quality
+while improving team morale by being reliable and inspiring.
+__Tools:__ C/C++, CMake, Python, DHCP, Groovy, Jenkins, Git, BitBucket,
+Jira, Docker, Linux
 
 `2021 - 2022`
 __Systems Programmer, SAAB Surveillance__
 
 - Development, mainly in C++, of distributed software with high
-  performance requirements. Setup of CI pipeline. Raw network packet
-  debugging. Delivered important software components of high quality
-  while improving team morale by being reliable and inspiring.
+performance requirements. Setup of CI pipeline. Raw network packet
+debugging. Delivered important software components of high quality
+while improving team morale by being reliable and inspiring.
 - __Tools:__ C/C++, CMake, Python, DHCP, Groovy, Jenkins, Git, BitBucket,
-  Jira, Docker, Linux
+Jira, Docker, Linux
 
 `2021 - 2022`
 __Systems Programmer, SAAB Surveillance__
 
 - Development, mainly in C++, of distributed software with high
-  performance requirements. Setup of CI pipeline. Raw network packet
-  debugging. Delivered important software components of high quality
-  while improving team morale by being reliable and inspiring.
+performance requirements. Setup of CI pipeline. Raw network packet
+debugging. Delivered important software components of high quality
+while improving team morale by being reliable and inspiring.
 - __Tools:__ C/C++, CMake, Python, DHCP, Groovy, Jenkins, Git, BitBucket,
-  Jira, Docker, Linux
-
-`2021 - 2022`
-__Systems Programmer, SAAB Surveillance__
-
-- Development, mainly in C++, of distributed software with high
-  performance requirements. Setup of CI pipeline. Raw network packet
-  debugging. Delivered important software components of high quality
-  while improving team morale by being reliable and inspiring.
-- __Tools:__ C/C++, CMake, Python, DHCP, Groovy, Jenkins, Git, BitBucket,
-  Jira, Docker, Linux
-
-`2021 - 2022`
-__Systems Programmer, SAAB Surveillance__
-
-- Development, mainly in C++, of distributed software with high
-  performance requirements. Setup of CI pipeline. Raw network packet
-  debugging. Delivered important software components of high quality
-  while improving team morale by being reliable and inspiring.
-- __Tools:__ C/C++, CMake, Python, DHCP, Groovy, Jenkins, Git, BitBucket,
-  Jira, Docker, Linux
+Jira, Docker, Linux
 
 ## Education
 
@@ -101,19 +102,19 @@ __Systems Programmer, SAAB Surveillance__
 __MSc Computer and Information Engineering, Uppsala University__
 
 - Master’s programme during which Max specialised in algorithms, high
-  performance computing and combinatorial optimisation.
+performance computing and combinatorial optimisation.
 
 `2015 - 2021`
 __MSc Computer and Information Engineering, Uppsala University__
 
 - Master’s programme during which Max specialised in algorithms, high
-  performance computing and combinatorial optimisation.
+performance computing and combinatorial optimisation.
 
 `2020`
 __Exchange Semester, Teknische Universität München__
 
 - Exchange semester with studies mainly in compiler and blockchain
-  techniques.
+techniques.
 
 <!-- ### Footer
 
