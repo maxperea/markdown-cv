@@ -2,7 +2,7 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Max Düring <img style="vertical-align:middle" src="img/max.jpg"  width="100" height="100">
+# Max Perea Düring <img src="img/max.jpg" width="100" height="100">
 Consultant, Happi Hacking AB
 
 <div id="webaddress">
