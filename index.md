@@ -7,7 +7,7 @@ Consultant, Happi Hacking AB
 
 <div id="webaddress">
 <a href="max@happihacking.se">max@happihacking.se</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">+46 707 96 90 10</a>
+| <a href=“tel:+0046707969010”>+46 707 96 90 10</a>
 </div>
 
 
