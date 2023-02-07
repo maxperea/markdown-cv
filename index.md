@@ -10,6 +10,7 @@ Software Developer
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">+46 707 96 90 10</a>
 </div>
 
+![Max](img/max.jpg "Max")
 
 ## Profile
 
